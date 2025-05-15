@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "220235108886",
+    "firebase_url": "https://tempatwisata-2bba1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tempatwisata-2bba1",
+    "storage_bucket": "tempatwisata-2bba1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220235108886:android:5bf874c62ff72ec14c9b37",
+        "android_client_info": {
+          "package_name": "com.example.app_firebasecli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPxoPmq2RJjABfSWf5Y6_RDvVIW2FIBOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
